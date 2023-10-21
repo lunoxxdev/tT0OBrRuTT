@@ -1,6 +1,6 @@
 # Tobrut
 
-Ini adalah [Marzban](https://github.com/Gozargah/Marzban) yang sudah saya tambahkan nginx untuk konfigurasi WebSocket single port. </br>
+Ini adalah [Marzban](https://github.com/Gozargah/Marzban) yang sudah di tambahkan nginx untuk konfigurasi WebSocket single port. </br>
 WebSocket sudah support untuk 443 TLS, 80 HTTP dan Wildcard path, contoh /enter-your-custom-path/trojan </br>
 
 Disclaimer: Proyek ini hanya untuk pembelajaran dan komunikasi pribadi, mohon jangan menggunakannya untuk tujuan ilegal. </br>
@@ -32,7 +32,7 @@ Credit full to [Gozargah Marzban](https://github.com/Gozargah), saya hanya edit 
  ```
 Pastikan anda sudah login sebagai root sebelum menjalankan perintah dibawah
  ```html
- wget https://raw.githubusercontent.com/lunoxxdev/tT0OBrRuTT/main/mar.sh && chmod +x mar.sh && ./mar.sh
+ wget https://raw.githubusercontent.com/lunoxxdev/tT0OBrRuTT/main/tobrut.sh && chmod +x tobrut.sh && ./tobrut.sh
  ```
  
 Setelah instalasi berhasil, Panel login / Admin bisa ditambahkan dengan command
