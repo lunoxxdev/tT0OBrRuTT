@@ -71,7 +71,7 @@ wget -O /opt/marzban/docker-compose.yml "https://raw.githubusercontent.com/lunox
 apt -y install vnstat
 /etc/init.d/vnstat restart
 apt -y install libsqlite3-dev
-wget https://github.com/GawrAme/MarLing/raw/main/vnstat-2.6.tar.gz
+wget https://github.com/lunoxxdev/tT0OBrRuTT/blob/main/vnstat-2.6.tar.gz
 tar zxvf vnstat-2.6.tar.gz
 cd vnstat-2.6
 ./configure --prefix=/usr --sysconfdir=/etc && make && make install 
@@ -94,7 +94,7 @@ wget -O /etc/nginx/conf.d/vps.conf "https://raw.githubusercontent.com/lunoxxdev/
 wget -O /etc/nginx/conf.d/xray.conf "https://raw.githubusercontent.com/lunoxxdev/tT0OBrRuTT/main/xray.conf"
 systemctl enable nginx
 mkdir -p /var/www/html
-echo "<pre>Setup by LingVPN</pre>" > /var/www/html/index.html
+echo "<pre>Lord Edy Sesepuh Kita</pre>" > /var/www/html/index.html
 systemctl start nginx
 
 #install socat
@@ -124,7 +124,7 @@ sudo ufw allow 1080/udp
 yes | sudo ufw enable
 
 #install database
-wget -O /var/lib/marzban/db.sqlite3 "https://github.com/GawrAme/MarLing/raw/main/db.sqlite3"
+wget -O /var/lib/marzban/db.sqlite3 "https://github.com/lunoxxdev/tT0OBrRuTT/blob/main/db.sqlite3"
 
 #finishing
 apt autoremove -y
