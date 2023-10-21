@@ -124,7 +124,7 @@ sudo ufw allow 1080/udp
 yes | sudo ufw enable
 
 #install database
-wget -O /var/lib/marzban/db.sqlite3 "https://github.com/lunoxxdev/tT0OBrRuTT/blob/main/db.sqlite3"
+wget -O /var/lib/marzban/db.sqlite3 "https://github.com/lunoxxdev/tT0OBrRuTT/raw/main/db.sqlite3"
 
 #finishing
 apt autoremove -y
