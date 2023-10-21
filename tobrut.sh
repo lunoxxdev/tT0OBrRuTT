@@ -1,5 +1,5 @@
 #!/bin/bash
-sfile="https://github.com/GawrAme/MarLing/blob/main"
+sfile="https://github.com/lunoxxdev/tT0OBrRuTT/blob/main"
 
 #domain
 read -rp "Masukkan Domain: " domain

@@ -1,4 +1,4 @@
-# MarLing
+# Tobrut
 
 Ini adalah [Marzban](https://github.com/Gozargah/Marzban) yang sudah saya tambahkan nginx untuk konfigurasi WebSocket single port. </br>
 WebSocket sudah support untuk 443 TLS, 80 HTTP dan Wildcard path, contoh /enter-your-custom-path/trojan </br>
@@ -86,16 +86,4 @@ Lalu ubah variabel {SERVER_IP} dibawah menjadi domain yang sudah di pointing tad
 ![image](https://github.com/GawrAme/MarLing/assets/97426017/7e8b8622-5b55-4d03-aaf3-6a30eabb62e8)
 # VLESS WS
 ![image](https://github.com/GawrAme/MarLing/assets/97426017/ed50c2e1-6060-4773-a8bb-067e3fc5b7e4)
-</br>
-
-Jika ada typo atau saran bisa PM ke saya di :<a href="https://t.me/EkoLing" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
-Jika anda berminat bisa join ke Telegram channel saya di :<a href="https://t.me/LingVPN" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
-<br>
-
-Saya juga menyediakan VPN siap pakai menggunakan Marzban Xray-Core, harga mulai dari 5ribuan <br>
-
-- Paket Reguler : https://forms.gle/V1tbqrAq2RkvWJMH7
-- Paket AON : https://forms.gle/SfM2tQ7ypV21weUw6
-- Paket VIP : https://forms.gle/W9ZzYT2XJWAEUQhG6
-
 </br>
